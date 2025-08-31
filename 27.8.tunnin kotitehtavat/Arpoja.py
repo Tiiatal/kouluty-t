@@ -2,7 +2,7 @@ import random
 random.randrange(0,9)
 print(random.randrange(0,9), random.randrange(0,9), random.randrange(0,9))
 print(random.randrange(1,6), random.randrange(1,6), random.randrange(1,6), random.randrange(1, 6))
-
+#kokeilin tehtävälle kahta eri toteutustapaa.
 option1 = random.randint(0,9)
 option2 = random.randint(0,9)
 option3 =random.randint(0,9)
