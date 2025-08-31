@@ -1,0 +1,6 @@
+Luku1 =int(input("Anna luku1 "))
+Luku2 =int(input("Anna luku2 "))
+Luku3 =int(input("Anna luku3 "))
+print(f"yhteensä {Luku1+Luku2+Luku3:.5f}")
+print(f"tulo {Luku1*Luku2*Luku3:.5f}")
+print(f"keskiarvo {Luku1+Luku2+Luku3/3:.5f}")
