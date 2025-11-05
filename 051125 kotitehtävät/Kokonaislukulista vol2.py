@@ -11,4 +11,4 @@ luvut=int(input("Anna lista kokonaislukuja. "))
 annetut.append(luvut)
 lista(luvut)
 
-#en saa tehtyä tästä kuin yhden numeron mittaisena toimivan
+#en saa tehtyä tästä kuin yhden numeron mittaisena toimivan ilman tekoälyn käyttöä
