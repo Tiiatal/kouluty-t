@@ -5,7 +5,7 @@ def nopat(silmäluku):
     print(luku)
     return luku
 #funktio arpoo nopan silmäluvun ja tulostaa sen
-print("Hei heitetään noppaa! Noppaa heitetään niin kauan kunnes nopan silmäluku on 6. Kivoja pelihetkiä!")
+
 silmäluku=(int(input("Millaista noppaa haluat heittää? Kerro haluamasi maksimi silmäluku nopalle. ")))
 luku=nopat(silmäluku)
 while luku!=silmäluku:
