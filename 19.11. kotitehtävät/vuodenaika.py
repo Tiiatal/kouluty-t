@@ -17,4 +17,6 @@ if 9<=kuukausi<=11:
 if 12== kuukausi:
     print("Talvi")
 
+#en tiedä onko ihan toivotun kaltainen, mutta ainakin toimii
+
 
