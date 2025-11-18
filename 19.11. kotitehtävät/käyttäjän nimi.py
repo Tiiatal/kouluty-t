@@ -10,4 +10,4 @@ if nimi == "":
     print("Tulostan sinulle nyt lisäämäsi nimet.")
 print(nimet)
 
-#olipas ihanan HELPPO! <3 Tuli hyvä mieli, kun tähän meni vain 15 minuuttia tuntien sijaan :)
+#nyt tää lisää nimet listaan, mutta enpä tiedä millä se testaisi löytyykö ne sieltä myöhemmin
